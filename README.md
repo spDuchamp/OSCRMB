@@ -8,4 +8,4 @@ This project contains ESP8266 Arduino code for the OSC controlled Rotary Magneti
 
 The project also includes the STL file of the 3D printed wheel (3D model by [JP Timmerman](https://www.thingiverse.com/rodmod/designs)) to attach to the <a href="https://www.vertiq.co/23-06-module">Vertiq 23-06 **220Kv** motor module</a>. The wheel has slots for 8mmx3mm cylindrical neodymium iron boron magnets.  All the album recordings were done using a 6 magnet configuration in positions 1,4,6,9,12,14 of the 16 slot wheel.
 
-***Warning: Keep kSpeed (motor redline value) within safe operating velocity. For safety, use a the Vertiq 220Kv module, not the 2200Kv version, and limit the voltage to the motor to at most 16 volts. ***
+***Warning: Keep kSpeed (motor redline value) within safe operating velocity. For safety, use a the Vertiq 220Kv module, not the 2200Kv version, and limit the voltage to the motor to at most 16 volts.***
